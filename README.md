@@ -4,6 +4,9 @@
 - 😄 Pronomes: ela/dela
 
  ![Anime](https://i.pinimg.com/originals/54/bd/a3/54bda352b17744efa1f6898040455423.gif)
+ 
+  <i class="devicon-html5-plain colored"></i>
+          
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencepsd&layout=compact)
  
