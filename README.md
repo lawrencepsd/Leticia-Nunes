@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Letícia e estou estudando para ser uma desenvolvedora full-stack/ Hey I'm Leticia and I'm studying to become a full-stack developer<br><br>Atualmente estudando/ Currently studying:<br>Python<br>HTML<br>C#<br>
+Sou Letícia e estou estudando para ser uma desenvolvedora full-stack / Hey I'm Leticia and I'm studying to become a full-stack developer<br><br>Atualmente estudando / Currently studying:<br>Python<br>HTML<br>C#<br>
 
 
 ## 🌐 Socials:
